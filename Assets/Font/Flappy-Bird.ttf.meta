@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4fe72236b9af1cd41aec5587971e9f53
+timeCreated: 1487765131
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Flappy Bird
+  fontNames:
+  - Flappy Bird
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

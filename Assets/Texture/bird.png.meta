@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: f94e2292a546b6046a8e764e2e41bb9b
+timeCreated: 1486791537
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bird_0
+    21300002: bird_1
+    21300004: bird_2
+    21300006: bird_3
+    21300008: bird_4
+    21300010: bird_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bird_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 67
+        width: 126
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 49.5}
+        - {x: -63, y: 19.5}
+        - {x: -63, y: -39.5}
+        - {x: -48, y: -49.5}
+        - {x: 34, y: -49.5}
+        - {x: 63, y: -36.5}
+        - {x: 63, y: 22.5}
+        - {x: 29, y: 49.5}
+    - name: bird_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 68
+        width: 138
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 49.5}
+        - {x: -67, y: 15.5}
+        - {x: -69, y: 8.5}
+        - {x: -69, y: -3.5}
+        - {x: -65, y: -3.5}
+        - {x: -69, y: -10.5}
+        - {x: -69, y: -42.5}
+        - {x: -35, y: -49.5}
+        - {x: 62, y: -49.5}
+        - {x: 69, y: -27.5}
+        - {x: 69, y: 22.5}
+        - {x: 25, y: 49.5}
+    - name: bird_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 67
+        width: 137
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 49.5}
+        - {x: -68.5, y: 19.5}
+        - {x: -68.5, y: -39.5}
+        - {x: -44.5, y: -49.5}
+        - {x: 24.5, y: -49.5}
+        - {x: 63.5, y: -39.5}
+        - {x: 68.5, y: -26.5}
+        - {x: 68.5, y: 28.5}
+        - {x: 41.5, y: 49.5}
+    - name: bird_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 68
+        width: 138
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 49.5}
+        - {x: -39, y: 49.5}
+        - {x: -69, y: 19.5}
+        - {x: -69, y: -38.5}
+        - {x: -30, y: -49.5}
+        - {x: 16, y: -49.5}
+        - {x: 58, y: -35.5}
+        - {x: 69, y: -12.5}
+        - {x: 69, y: 21.5}
+    - name: bird_4
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 73
+        width: 137
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 49.5}
+        - {x: -68.5, y: 16.5}
+        - {x: -68.5, y: -3.5}
+        - {x: -64.5, y: -3.5}
+        - {x: -68.5, y: -10.5}
+        - {x: -68.5, y: -44.5}
+        - {x: -58.5, y: -49.5}
+        - {x: 28.5, y: -49.5}
+        - {x: 64.5, y: -33.5}
+        - {x: 68.5, y: -25.5}
+        - {x: 68.5, y: 26.5}
+        - {x: 36.5, y: 49.5}
+    - name: bird_5
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 78
+        width: 126
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 49.5}
+        - {x: -63, y: 28.5}
+        - {x: -63, y: -45.5}
+        - {x: -50, y: -49.5}
+        - {x: 41, y: -49.5}
+        - {x: 63, y: -20.5}
+        - {x: 63, y: 34.5}
+        - {x: 53, y: 49.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
